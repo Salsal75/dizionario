@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Il Mio Dizionario</title>
+    <style>
+        /* Aggiungi stili CSS per il tuo dizionario qui */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Il Mio Dizionario</h1>
+    </header>
+    <main>
+        <section id="parola1">
+            <h2>Parola 1</h2>
+            <p>Definizione della Parola 1.</p>
+            <p>Esempio di utilizzo: Una frase che usa la Parola 1.</p>
+        </section>
+        <section id="parola2">
+            <h2>Parola 2</h2>
+            <p>Definizione della Parola 2.</p>
+            <p>Esempio di utilizzo: Una frase che usa la Parola 2.</p>
+        </section>
+        <!-- Aggiungi più sezioni per altre parole -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Il Mio Dizionario</p>
+    </footer>
+</body>
+</html>
